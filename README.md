@@ -22,7 +22,7 @@ When finished, deploy on netlify. Simply point netlify to your chocolate pizza r
 
 | Looking For      | Points (10) |
 | :--------------- | ----------: |
-[ ] Deployed on netlify | 1 |
+[x] Deployed on netlify | 1 |
 [ ] Correctly used images (in public directory) and css `classNames` | 1 |
 [ ] `Header` and `Footer` | 2 |
 [ ] `ButtonList` | 1 |
