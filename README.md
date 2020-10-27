@@ -23,9 +23,9 @@ When finished, deploy on netlify. Simply point netlify to your chocolate pizza r
 | Looking For      | Points (10) |
 | :--------------- | ----------: |
 [x] Deployed on netlify | 1 |
-[ ] Correctly used images (in public directory) and css `classNames` | 1 |
-[ ] `Header` and `Footer` | 2 |
-[ ] `ButtonList` | 1 |
+[x] Correctly used images (in public directory) and css `classNames` | 1 |
+[x] `Header` and `Footer` | 2 |
+[x] `ButtonList` | 1 |
 [ ] |`IngredientList` (with `data` prop) | 2 |
 [ ] Inside `IngredientList`, use a bunch of `IngredientItem`s (with `name` and `amount` props) | 3 |
 [ ] STRETCH: Use a `data.js` file with an array of recipe items, and use the `.map` array method to generate the recipe items with an 
