@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import IngredientsList from './IngredientsList'
 
 export default class IngredientItem extends Component {
     render() {
