@@ -4,6 +4,7 @@ import Header from './Header.js';
 import Footer from './Footer.js';
 import IngredientsList from './IngredientsList.js';
 import Recipe from './Recipe.js';
+import AuthorSection from './AuthorSection.js';
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       <Header className="App-header" />
         <img className="choco-pizza" src="chocoPizza.png" alt="pizza" />
       <Recipe />
-      <IngredientsList />  
+      <IngredientsList />
+      <AuthorSection />  
       <Footer />
     </div>
   );
